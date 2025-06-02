@@ -228,8 +228,9 @@ body{
   position: absolute;
 
 bottom: 90%;
-left: 170%;
-  width: 100%;
+left: 150%;
+
+  width: 500px;
   height: 100%;
 
   border-radius: 10px;
@@ -239,10 +240,10 @@ left: 170%;
 
 .about .content .col-left .img-card img{
   position: absolute;
-bottom: 5%;
+bottom: 10%;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 104%;
 
   border-radius: 10px;
 }
